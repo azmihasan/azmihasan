@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+An international student in Business Computing who enjoy designing, and developing. 
+
+I also actively participate in organizations, hackathons, and various projects. I am looking for an early career opportunity in software development.
+
+“ Code is like humor. When you have to explain it, it’s bad.” – Cory House
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
