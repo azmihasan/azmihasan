@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **azmihasan/azmihasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-An international student in Business Computing who enjoy designing, and developing. 
+### Hi there 👋, I am Hasan
+#### A business computing student who enjoy designing, and developing
 
 I also actively participate in organizations, hackathons, and various projects. I am looking for an early career opportunity in software development.
 
+Skills: PYTHON | DJANGO / Java | Spring Boot  / JS | HTML | CSS
+
 “ Code is like humor. When you have to explain it, it’s bad.” – Cory House
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![A business computing student who enjoy designing, and developing](https://media-exp1.licdn.com/dms/image/C4D16AQEb3JcgIyZCKA/profile-displaybackgroundimage-shrink_350_1400/0/1646840073702?e=1675296000&v=beta&t=6LEf5snWZdAXjoufjyIQa5mxM272mfdwc1iq_n5nMiQ)
