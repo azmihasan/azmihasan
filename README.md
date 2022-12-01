@@ -14,12 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋, I am Hasan
-#### A business computing student who enjoy designing, and developing
+## Hi there 👋, I'm Azmi Hasan
+### A business computing student who enjoy designing, and developing
 
 I also actively participate in organizations, hackathons, and various projects. I am looking for an early career opportunity in software development.
 
-Skills: PYTHON | DJANGO / Java | Spring Boot  / JS | HTML | CSS
+## Skills and Experience: 
+
+* ☕ Java, Spring Boot
+* 🐍 Python, Django
+* 💻 Html, Css, Javascript
 
 “ Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
