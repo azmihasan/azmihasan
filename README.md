@@ -19,13 +19,15 @@ Here are some ideas to get you started:
 
 I also actively participate in organizations, hackathons, and various projects. I am looking for an early career opportunity in software development.
 
-## Skills and Experience: 
+## Tools: 
 
 * ☕ Java, Spring Boot
 * 🐍 Python, Django
 * 💻 Html, Css, Javascript
 
-“ Code is like humor. When you have to explain it, it’s bad.” – Cory House
+## Experience:
 
+* Computer Vision
+* Supervised Machine Learning
 
 ![A business computing student who enjoy designing, and developing](https://raw.githubusercontent.com/azmihasan/azmihasan/main/wordcloud.png)
